@@ -1,7 +1,8 @@
 streamlit
-streamlit-option-menu
+streamlit-option-menu==0.4.0
 mysql-connector-python
 requests
 py3Dmol
 rdkit-pypi
 pandas
+
